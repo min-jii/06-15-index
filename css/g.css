@@ -1,0 +1,44 @@
+		#abs1{
+			position: absolute;
+			width: 410px;
+			left: -80px;
+			top: -40px;	
+		}
+		#abs2{
+			position: absolute;
+			width: 380px;
+			left: 280px;
+			top: -20px;	
+		}
+		#abs3{
+			position: absolute;
+			width: 390px;
+			left: -80px;
+			top: 410px;	
+		}
+		#abs4{
+			position: absolute;
+			width: 380px;
+			left: 290px;
+			top: 425px;	
+		}
+		#abs5{
+			position: absolute;
+			left: 180px;
+			top: 130px;	
+		}	
+		#abs6{
+			position: absolute;
+			left: 520px;
+			top: 105px;	
+		}	
+		#abs7{
+			position: absolute;
+			left: 190px;
+			top: 698px;	
+		}	
+		#abs8{
+			position: absolute;
+			left: 540px;
+			top: 525px;	
+		}
